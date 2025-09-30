@@ -12,3 +12,7 @@ Questo progetto universitario ha come obiettivo la creazione di una piattaforma 
 -Progettare un sistema digitale che valorizzi le vedovelle e ne faciliti l’uso.
 
 -Integrare dati e strumenti utili (es. geolocalizzazione, informazioni storiche, feedback).
+
+Struttura repository:
+
+-Interviste: contiene informazioni riguardo a chi deve occuparsi di "recuperare" le interviste e le linee guida per svolgerle.
