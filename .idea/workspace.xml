@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5b60c1f-33cd-4b42-bc46-a9f7224925b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1/AnalisiSondaggiForms/SondaggioApprofondito/C1.DepthAnalysis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1/AnalisiSondaggiForms/SondaggioBase/C1.BasicAnalysis.md" afterDir="false" />
-    </list>
+    <list default="true" id="d5b60c1f-33cd-4b42-bc46-a9f7224925b3" name="Changes" comment="Added analysis and results based on Microsoft Forms data" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +35,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/utente/Documents/GitHub/EcoDevs",
+    "last_opened_file_path": "C:/Users/utente/Documents/GitHub/EcoDevs/C1/AnalisiSondaggiForms/SondaggioApprofondito",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,7 +45,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\utente\Documents\GitHub\EcoDevs\C1\AnalisiSondaggiForms\SondaggioApprofondito" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\utente\Documents\GitHub\EcoDevs\C1\AnalisiSondaggiForms\SondaggioBase" />
       <recent name="C:\Users\utente\Documents\GitHub\EcoDevs\Interviste\C1.formsData" />
       <recent name="C:\Users\utente\Documents\GitHub\EcoDevs\Interviste" />
     </key>
@@ -73,8 +72,17 @@
       <workItem from="1759739972411" duration="261000" />
       <workItem from="1759740245944" duration="51000" />
       <workItem from="1760338250469" duration="6276000" />
-      <workItem from="1760345749599" duration="347000" />
+      <workItem from="1760345749599" duration="675000" />
     </task>
+    <task id="LOCAL-00001" summary="Added analysis and results based on Microsoft Forms data">
+      <option name="closed" value="true" />
+      <created>1760346415464</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760346415464</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added analysis and results based on Microsoft Forms data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added analysis and results based on Microsoft Forms data" />
   </component>
 </project>
